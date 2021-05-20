@@ -16,3 +16,8 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
+
+<div align=center>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=echo-outlier&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/echo-outlier)
+</div>
