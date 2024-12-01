@@ -1,22 +1,26 @@
-- 👋 Hi, I’m Yash. I'm a 2nd year college student pursuing Bachelors in Technology. I'm a type of person which loves simplifying the things that are complex. 
-- I have a knowledge of C++,Python and recently participated in E-Yantra IIT Bombay Competition which was based on ROS(Robot Operating System).
-- I'm also familiar about Django Framework. I have made some projects using Python with Django.
-- I'm currently in love with ReactJS and using my creativity to contribute and create useful projects.
+# Hey there! I'm Yash 👋
 
+## My Tech Journey 🚀
 
-<!---
-echo-outlier/echo-outlier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+From web development to mobile apps, I've been on an exciting ride through the world of tech. After diving deep into web technologies, I found my groove in React Native, turning innovative ideas into smooth, intuitive mobile experiences.
 
-<!--
-- 👀 I’m interested in Frontend and Backend Development.
-- 🌱 I’m currently learning ReactJS.
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me ...
--->
+### 💻 Tech Playground
 
-<div align=center>
+- **Mobile Development**: Spent the last couple of years crafting killer React Native apps that solve real-world problems
+- **Web Technologies**: Solid background in React, Node.js, and AWS - building scalable web solutions
+- 
+### 🤖 Cool Projects & Experiences
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=echo-outlier&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/echo-outlier)
+- Participated in E-Yantra IIT Bombay Competition, working with ROS (Robot Operating System) - because who doesn't love playing with cool tech?
+- Built multiple projects using Django, showing off Python's versatility
+- Created React Native apps that blend creativity with functionality
+
+### Current Vibes 🌟
+
+Right now, I'm all about pushing the boundaries of mobile development, turning complex ideas into simple, elegant solutions.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=echo-outlier&show_icons=true&theme=tokyonight&line_height=27" alt="My GitHub Stats"/>
 </div>
+
+**Let's connect!** Always up for chatting about tech, coding, or the next big idea 🚀
