@@ -8,7 +8,7 @@ From web development to mobile apps, I've been on an exciting ride through the w
 
 - **Mobile Development**: Spent the last couple of years crafting killer React Native apps that solve real-world problems
 - **Web Technologies**: Solid background in React, Node.js, and AWS - building scalable web solutions
-- 
+
 ### 🤖 Cool Projects & Experiences
 
 - Participated in E-Yantra IIT Bombay Competition, working with ROS (Robot Operating System) - because who doesn't love playing with cool tech?
