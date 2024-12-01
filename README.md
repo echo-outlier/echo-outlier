@@ -19,8 +19,4 @@ From web development to mobile apps, I've been on an exciting ride through the w
 
 Right now, I'm all about pushing the boundaries of mobile development, turning complex ideas into simple, elegant solutions.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=echo-outlier&show_icons=true&theme=tokyonight&line_height=27" alt="My GitHub Stats"/>
-</div>
-
 **Let's connect!** Always up for chatting about tech, coding, or the next big idea 🚀
